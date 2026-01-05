@@ -1,0 +1,16 @@
+Store and Query JSON Data in MongoDB
+
+Goal:
+    Explore NoSQL by storing and querying semi-structured sales data in MongoDB.
+Tasks:
+    Store order data as nested JSON documents (customer, product, region).
+    Run queries to:
+        Retrieve all orders in a given date range.
+        Group sales by region or category using the aggregation pipeline.
+        Compare flexibility vs. relational SQL model.
+
+Tech: MongoDB, Python (PyMongo)
+
+Deliverables: .ipynb or .py with CRUD + aggregation examples + screenshots (Mongo shell/Compass query outputs)
+
+Dataset: https://wgcp-my.sharepoint.com/:f:/g/personal/ritish_jogi_blend360_com/EmxzwFjNkaxPuCw2mQ0abr0BGg6XzIPlj22VogFVtQniyg?e=aglSyr
